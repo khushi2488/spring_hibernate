@@ -14,7 +14,7 @@ public class UserEntity {
 	private Integer userId;
 	private String firstName;
 	private String email;
-	private String password;// modify
+	private String password;
 
 	public String getFirstName() {
 		return firstName;
